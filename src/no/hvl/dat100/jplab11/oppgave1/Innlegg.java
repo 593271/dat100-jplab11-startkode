@@ -12,6 +12,7 @@ public abstract class Innlegg {
 	
 	public Innlegg(int id, String bruker, String dato) {
 		// jeg tester bare noen commits lol
+		//merkeligttttt
 		// TODO 
 		throw new UnsupportedOperationException(TODO.constructor("Innlegg"));
 	}
